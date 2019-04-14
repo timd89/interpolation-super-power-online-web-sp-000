@@ -1,3 +1,7 @@
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
-puts colors[1]
+def display_rainbow
+  print R:[0],
+  print O:[1[
+end
 
+display_rainbow
